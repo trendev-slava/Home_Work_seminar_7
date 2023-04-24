@@ -1,0 +1,15 @@
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/bin/Debug/net6.0/task_1
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/bin/Debug/net6.0/task_1.deps.json
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/bin/Debug/net6.0/task_1.runtimeconfig.json
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/bin/Debug/net6.0/task_1.dll
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/bin/Debug/net6.0/task_1.pdb
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.csproj.AssemblyReference.cache
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.AssemblyInfoInputs.cache
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.AssemblyInfo.cs
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.csproj.CoreCompileInputs.cache
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.dll
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/refint/task_1.dll
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.pdb
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/task_1.genruntimeconfig.cache
+/Users/vaceslavtrendev/Desktop/Семинары/seminar_7/task_1/obj/Debug/net6.0/ref/task_1.dll
